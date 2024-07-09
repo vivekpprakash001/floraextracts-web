@@ -1,0 +1,450 @@
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/AndrographisPaniculata.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Andrographis Paniculata Extract</h4>
+                        <p>Ingredients : Total bitters as andrographolides 5-50% Benefits : Treatment of common cold, Hepato protective effects, Anti-bacterial and Anti- parasitic, Supports Healthy Inflammatory Response.</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/Ashwagandha.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Ashwagandha Extract</h4>
+                        <p>Ingredients : Withanolide glycosides 1.5 -8%, Saponins 2.5% Benefits : Antioxidant, anti-stress, rejuvenating effect, immunomodulatory effect</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/BoswelliaSerratta.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Boswellia Serratta Extract</h4>
+                        <p>Ingredients : Boswellic Acid 65%-85% Benefits : Supports Healthy Inflammatory Response, Supports Joint Health</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/BlackPepper.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Black Pepper Extract</h4>
+                        <p>Ingredients : Caryophyllene(24.42%), Limonene(15.10%) Benefits : Used for the treatment of epilepsy and pain in traditional medicine</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/Brahmi.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Brahmi Extract</h4>
+                        <p>Ingredients : Bacosides 25% Benefits : Memory Booster</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/Cinnamon.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Cinnamon Extract</h4>
+                        <p>Ingredients : Total Polyphenols 10-30% Benefits : Memory Booster</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/CurcuminEffervescen.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Curcumin - Effervescent</h4>
+                        <p>Ingredients : Curcuminiods 37.5% Benefits : Free flowing effervescent granules</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/CurcuminEthanol.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Curcumin Ethanol</h4>
+                        <p>Ingredients : Curcuminiods 95% Benefits : Extraction Solvent- Ethanol</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/CurcuminOilSoluble.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Curcumin Oil Soluble</h4>
+                        <p>Ingredients : Curcuminiods 28.5% Benefits : Easily soluble with MCT oil or Hemp oil</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/CurcuminPowder.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Curcumin Powder</h4>
+                        <p>Ingredients : Curcuminiods 95% Benefits : Powder</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/CurcuminPowderWaterDispersible.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Curcumin Powder(Water Dispersible)</h4>
+                        <p>Ingredients : Curcuminiods 45% Benefits : Water dispersible powder</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/CurcuminStainFree.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Curcumin – Stain Free</h4>
+                        <p>Ingredients : Curcuminiods 95% Benefits : Easy free flowing Stain Free granules</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/CurcuminHighDensity.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Curcumin - High Density</h4>
+                        <p>Ingredients : Curcuminiods 95% Benefits : Easy to fill in capsules, maximum loading ensured. Low wastage during encapsulation.</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/Mustard.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Essential Oil of Mustard</h4>
+                        <p>Ingredients : AITC 95% , BITC 85% Benefits : Flavouring Agent</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/Fenugreek.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Fenugreek Extract</h4>
+                        <p>Ingredients : Saponins 30-60% Benefits : Supports immune system, lowers blood glucose, Supports healthy cholesterol levels</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/GarciniaCambogia.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Garcinia Cambogia Extract</h4>
+                        <p>Ingredients : HCA 50-60% powder, granules Benefits : Weight control, obesity satiety</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/Ginger.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Ginger Extract</h4>
+                        <p>Ingredients : Gingerol 5-10% Benefits : Supports Healthy Inflammatory Response, improves digestion, anti-emetic</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/GreenCoffee.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Green Coffee Extract</h4>
+                        <p>Ingredients : Chlorogenic acid 45%-50% Benefits : Weight loss agent, effective antioxidant reduces the risk of diabetes</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/GreenTea.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Green Tea Extract</h4>
+                        <p>Ingredients : 30% EGCG, 75% polyphenols,15% EGCG & 50% polyphenols(water soluble) Benefits : Weight control, antioxidant, anti-carcinogenic</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/Guggul.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Guggul Lipid Extract</h4>
+                        <p>Ingredients : Guggul Sterones 2.5-10% Benefits : Inhibits platelet aggregation</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/Gymnema.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Gymnema Sylvestre Extract</h4>
+                        <p>Ingredients : Gymnemic Acid 25% & 75% Benefits : Support healthy blood glucose levels</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/Mustard.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Mustard Seed Extract</h4>
+                        <p>Ingredients : Total lignans 70% Benefits : Antioxidant, healthy blood glucose, enhances the metabolism of omega-3 fatty acids, protects liver from alcohol toxicity, reduces hangover</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/Pterocarpus.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Pterocarpus Marsupium Extract</h4>
+                        <p>Ingredients : Pterostilbene 5% Benefits : Support healthy blood glucose levels</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/Sesame.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Sesame Seed Extract</h4>
+                        <p>Ingredients : Total lignans 70% Benefits : Antioxidant, healthy blood glucose, enhances the metabolism of omega-3 fatty acids, protects liver from alcohol toxicity, reduces hangover</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
+
+        <div class="col-md-6 col-lg-4 col-xl-3">
+                <div class="rounded position-relative fruite-item">
+                    <div class="fruite-img">
+                        <img src="img/products/Extract/Tribulus.jpg" class="img-fluid w-100 rounded-top" alt="">
+                    </div>
+                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute" style="top: 10px; left: 10px;">Extracts</div>
+                    <div class="p-4 border border-secondary border-top-0 rounded-bottom">
+                        <h4>Tribulus Terrestris</h4>
+                        <p>Ingredients : Saponins 40%-90% Benefits : Sports medicine, libido enhancer, suitable for beverages</p>
+                        <div class="d-flex justify-content-between flex-lg-wrap">
+                            <!--<p class="text-dark fs-5 fw-bold mb-0">$4.99 </p>-->
+                            <!-- <a href="#" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>-->
+                        </div>
+                    </div>
+                </div>
+        </div>
+        
