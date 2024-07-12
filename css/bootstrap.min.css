@@ -4573,7 +4573,8 @@ textarea.form-control-lg{
 }
 .modal-header .btn-close{
     padding:.5rem .5rem;
-    margin:-0.5rem -0.5rem -0.5rem auto
+    margin:-0.5rem -0.5rem -0.5rem auto;
+    background-color: var(--bs-white);
 }
 .modal-title{
     margin-bottom:0;
