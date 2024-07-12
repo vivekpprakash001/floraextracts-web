@@ -495,3 +495,50 @@
 }
 /*** Footer End ***/
 
+
+/* Map */
+.address-container {
+    position: relative;
+}
+
+.map-container {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 300px;  /* Initial width */
+    height: 200px; /* Initial height */
+    z-index: 10;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: width 0.3s ease, height 0.3s ease; /* Smooth transition */
+}
+
+.address-container:hover .map-container {
+    display: block;
+    width: 500px;  /* Larger width on hover */
+    height: 400px; /* Larger height on hover */
+}
+/* Map End */
+
+/* Team Modal */
+@media (max-width: 576px) { /* Bootstrap's breakpoint for small devices */
+    .h-100-mobile {
+        height: 100%;
+    }
+}
+/* Team Modal End */
+
+/* Features  */
+.fixed-size {
+    width: 300px;
+    height: 300px;
+}
+/* Features End */
+
+/* Natural Colours */
+.color-img-fluid{
+    max-width:100%;
+    height:auto
+}
