@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec907b0a-c0bd-4967-a061-5d836e7bae6f" name="Default Changelist" comment="" />
+    <list default="true" id="ec907b0a-c0bd-4967-a061-5d836e7bae6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/slick_slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Certifications/AEO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Certifications/BRCGS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Certifications/FAMI_QS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Certifications/FSSC22000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Certifications/Fssai Logo Vector.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Certifications/GoodManufacturing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Certifications/HALAL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Certifications/HALAL_INDO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Certifications/INDIA_ORGANIC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Certifications/Organic_EU_Scope.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Certifications/Rainforest_Alliance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Certifications/iso-seeklogo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick_slider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,23 +30,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1000">
-              <caret line="50" column="160" selection-start-line="50" selection-start-column="160" selection-end-line="50" selection-end-column="160" />
+            <state relative-caret-position="369">
+              <caret line="1285" column="7" lean-forward="true" selection-start-line="1285" selection-start-column="7" selection-end-line="1285" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#button#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#button#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dict_div_products.py">
+        <entry file="file://$PROJECT_DIR$/index_copy.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6820">
-              <caret line="341" column="26" selection-start-line="341" selection-start-column="26" selection-end-line="341" selection-end-column="26" />
+            <state relative-caret-position="403">
+              <caret line="734" column="14" selection-start-line="616" selection-start-column="8" selection-end-line="734" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -43,11 +64,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2380">
-              <caret line="119" column="154" selection-start-line="119" selection-start-column="154" selection-end-line="119" selection-end-column="154" />
+            <state relative-caret-position="415">
+              <caret line="132" column="41" lean-forward="true" selection-start-line="132" selection-start-column="41" selection-end-line="132" selection-end-column="41" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#3;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -57,7 +78,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/products.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
+            <state relative-caret-position="20500">
               <caret line="1025" column="57" selection-start-line="1025" selection-start-column="57" selection-end-line="1025" selection-end-column="57" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -119,56 +140,50 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/READ-ME.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="42" selection-start-column="42" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Organic Veggies</find>
-      <find>Vesitables</find>
-      <find>ur Client Saying!</find>
-      <find>Email</find>
-      <find>#</find>
-      <find>--bs-primary</find>
-      <find>background-color: #81c408 !important</find>
-      <find>--bs-green:</find>
-      <find>--bs-green</find>
-      <find>green</find>
-      <find>#81c408</find>
-      <find>#&lt;a href=&quot;#&quot; class=&quot;btn border border-secondary rounded-pill px-3 text-primary&quot;&gt;&lt;i class=&quot;fa fa-shopping-bag me-2 text-primary&quot;&gt;&lt;/i&gt; Add to cart&lt;/a&gt;</find>
-      <find>Privac</find>
-      <find>exampleModalLabel</find>
-      <find>Fresh Exo</find>
-      <find>fas fa-car-side</find>
-      <find>fa</find>
-      <find>/ kg</find>
-      <find>}</find>
-      <find>&lt;p class=&quot;text-dark fs-5 fw-bold mb-0&quot;&gt;$4.99 &lt;/p&gt;</find>
-      <find>}</find>
-      <find>img</find>
-      <find>ingredients:</find>
-      <find>img:</find>
-      <find>Grapes</find>
-      <find>&lt;h4 class=&quot;mb-3&quot;&gt;3.12 $&lt;/h4&gt;</find>
-      <find>Curcumin - High Density</find>
-      <find>product_img:</find>
-      <find>&quot;product_img&quot;:</find>
-      <find>tab-3</find>
+      <find>img-fluid rounded-circle</find>
+      <find>Bestseller Products</find>
+      <find>fa-envelope</find>
+      <find>Organic Oils &amp; Extracts</find>
+      <find>sales</find>
+      <find>col-lg-12</find>
+      <find>px-</find>
+      <find>slick</find>
+      <find>main.js</find>
+      <find>carousel-control-prev-icon</find>
+      <find>Bestseller</find>
+      <find>https://code.jquery.com/jquery-2.2.0.min.js</find>
+      <find>ttps://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js</find>
+      <find>pointer-events</find>
+      <find>cursor</find>
+      <find>slider</find>
+      <find>customer-logos</find>
+      <find>testimonial-item</find>
+      <find>py-5</find>
+      <find>container</find>
+      <find>carousel</find>
+      <find>d-flex</find>
+      <find>testimonial</find>
+      <find>owl-item</find>
+      <find>width:</find>
+      <find>owl-</find>
+      <find>img-fluid</find>
+      <find>Fresh Organi</find>
+      <find>img-fluid</find>
+      <find>vesitable</find>
     </findStrings>
     <replaceStrings>
       <replace>#1A392D</replace>
@@ -183,18 +198,29 @@
       <replace>&quot;product_img&quot;: &quot;</replace>
       <replace>&lt;!--&lt;h4 class=&quot;mb-3&quot;&gt;3.12 $&lt;/h4&gt;--&gt;</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\vivek\Desktop\floraextracts-web</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/send_enquiry.php" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/dict_div_products.py" />
         <option value="$PROJECT_DIR$/products.html" />
         <option value="$PROJECT_DIR$/READ-ME.txt" />
+        <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/css/slick-slider.css" />
+        <option value="$PROJECT_DIR$/js/slick_slider.js" />
+        <option value="$PROJECT_DIR$/css/slick_slider.css" />
+        <option value="$PROJECT_DIR$/css/slick_slider_bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/sample.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -204,6 +230,7 @@
     <option name="width" value="1386" />
     <option name="height" value="788" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -217,6 +244,40 @@
               <item name="floraextracts-web" type="b2602c69:ProjectViewProjectNode" />
               <item name="floraextracts-web" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="floraextracts-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="floraextracts-web" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="floraextracts-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="floraextracts-web" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="floraextracts-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="floraextracts-web" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="Certifications" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="floraextracts-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="floraextracts-web" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="floraextracts-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="floraextracts-web" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="floraextracts-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="floraextracts-web" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="owlcarousel" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -224,14 +285,18 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vivek\Desktop\floraextracts-web\img" />
       <recent name="C:\Users\vivek\Desktop\fruitables-1.0.0" />
     </key>
   </component>
@@ -297,18 +362,20 @@
       <workItem from="1720468337509" duration="6518000" />
       <workItem from="1720504675009" duration="9110000" />
       <workItem from="1720521454275" duration="9123000" />
-      <workItem from="1720541275884" duration="44000" />
+      <workItem from="1720541275884" duration="8515000" />
+      <workItem from="1720627999026" duration="3383000" />
+      <workItem from="1720703807151" duration="11989000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34728000" />
+    <option name="totallyTimeSpent" value="58571000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27609682" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28517398" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -322,7 +389,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32840723" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3294893" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -330,6 +397,29 @@
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28517398" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32840723" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34811166" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3294893" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -347,59 +437,13 @@
     <entry file="file://$PROJECT_DIR$/img/avatar.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/flora_extracts_logo.svg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="76" column="22" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-180">
           <caret line="24" column="48" lean-forward="true" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index_copy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1480">
-          <caret line="74" column="34" selection-start-line="66" selection-start-column="28" selection-end-line="74" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="6390" column="39" selection-start-line="6390" selection-start-column="39" selection-end-line="6390" selection-end-column="39" />
-          <folding>
-            <element signature="e#35609#35832#2" expanded="true" />
-            <element signature="e#37674#37895#2" expanded="true" />
-            <element signature="e#37958#38091#2" expanded="true" />
-            <element signature="e#38219#38434#2" expanded="true" />
-            <element signature="e#38764#38914#2" expanded="true" />
-            <element signature="e#39197#39333#2" expanded="true" />
-            <element signature="e#39435#39568#2" expanded="true" />
-            <element signature="e#46319#46553#2" expanded="true" />
-            <element signature="e#47427#47650#1" expanded="true" />
-            <element signature="e#47651#47885#1" expanded="true" />
-            <element signature="e#49593#49907#2" expanded="true" />
-            <element signature="e#50801#51024#1" expanded="true" />
-            <element signature="e#51025#51339#1" expanded="true" />
-            <element signature="e#84909#85144#2" expanded="true" />
-            <element signature="e#85985#86226#2" expanded="true" />
-            <element signature="e#90183#90454#2" expanded="true" />
-            <element signature="e#90631#90902#2" expanded="true" />
-            <element signature="e#106303#106616#1" expanded="true" />
-            <element signature="e#122107#122354#2" expanded="true" />
-            <element signature="e#122407#122655#2" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -417,20 +461,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/LICENSE.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1000">
-          <caret line="50" column="160" selection-start-line="50" selection-start-column="160" selection-end-line="50" selection-end-column="160" />
-          <folding>
-            <element signature="n#style#0;n#button#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="-480" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dict_div_products.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6820">
-          <caret line="341" column="26" selection-start-line="341" selection-start-column="26" selection-end-line="341" selection-end-column="26" />
+        <state relative-caret-position="-3340">
+          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -441,21 +487,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2380">
-          <caret line="119" column="154" selection-start-line="119" selection-start-column="154" selection-end-line="119" selection-end-column="154" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/products.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
+        <state relative-caret-position="20500">
           <caret line="1025" column="57" selection-start-line="1025" selection-start-column="57" selection-end-line="1025" selection-end-column="57" />
           <folding>
             <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -516,10 +550,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/READ-ME.txt">
+    <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="42" selection-start-column="42" selection-end-column="42" />
+        <state relative-caret-position="415">
+          <caret line="132" column="41" lean-forward="true" selection-start-line="132" selection-start-column="41" selection-end-line="132" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#3;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/slick_slider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/slick_slider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/slick_slider_bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/owlcarousel/assets/owl.carousel.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="2020" column="1" lean-forward="true" selection-start-line="2020" selection-start-column="1" selection-end-line="2020" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index_copy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="734" column="14" selection-start-line="616" selection-start-column="8" selection-end-line="734" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="326" column="19" selection-start-line="326" selection-start-column="19" selection-end-line="326" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="1285" column="7" lean-forward="true" selection-start-line="1285" selection-start-column="7" selection-end-line="1285" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#button#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
