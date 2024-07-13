@@ -40,7 +40,7 @@ $goto_after_mail="https://floraextracts.us/contact.html";
 
 $reply_msg = "Enquiry Accepted";
 
-mail("sales@floraextracts.us", $subject, $email_message, $headers);
+mail("info@floraextracts.us", $subject, $email_message, $headers);
 
 echo '<script type="text/javascript">
              alert("'.$reply_msg.'");
