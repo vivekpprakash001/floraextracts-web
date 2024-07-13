@@ -47,7 +47,7 @@ echo '<script type="text/javascript">
              window.location.href = "'.$goto_after_mail.'";
           </script>';
 
-// header("Location: ".$goto_after_mail);
+header("Location: ".$goto_after_mail);
 
 }
 }
