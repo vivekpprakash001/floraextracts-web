@@ -546,4 +546,9 @@
 .best-seller-img-fluid{
     width:200px;
     height:150px;
+    object-fit: cover;
+}
+
+.nav-img-fluid {
+    object-fit: cover;
 }
