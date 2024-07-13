@@ -1,16 +1,17 @@
 <?php
 
-$name = $_POST['name'];
-$email = $_POST['email'];
-$message = $_POST['message'];
+<?php
+$to = 'sales@floraextracts.us';
+$subject = 'Test Mail';
+$message = 'This is a test message';
+$headers = 'From: sender@example.com';
 
-$toEmail = 'sales@floraextracts.us';
-$emailSubject = 'Enquiry from website';
-$headers = ['From' => $email, 'Reply-To' => $email, 'Content-type' => 'text/html; charset=utf-8'];
-
-echo "<script>alert(' .$emailSubject. ')</script>";
-mail($toEmail, $emailSubject, 'sample test', $headers)
-header('Location: contact.html');
+if(mail($to, $subject, $message, $headers)) {
+    echo "Mail sent successfully.";
+} else {
+    echo "Mail sending failed.";
+}
+?>
 
 
 ?>
