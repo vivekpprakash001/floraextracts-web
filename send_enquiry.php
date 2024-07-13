@@ -9,5 +9,8 @@ $emailSubject = 'Enquiry from website';
 $headers = ['From' => $email, 'Reply-To' => $email, 'Content-type' => 'text/html; charset=utf-8'];
 
 echo "<script>alert(' .$emailSubject. ')</script>";
+mail($toEmail, $emailSubject, 'sample test', $headers)
+header('Location: contact.html');
+
 
 ?>
