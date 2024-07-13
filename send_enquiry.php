@@ -1,6 +1,5 @@
 <?php
 
-<?php
 $to = 'sales@floraextracts.us';
 $subject = 'Test Mail';
 $message = 'This is a test message';
@@ -11,7 +10,5 @@ if(mail($to, $subject, $message, $headers)) {
 } else {
     echo "Mail sending failed.";
 }
-?>
-
 
 ?>
