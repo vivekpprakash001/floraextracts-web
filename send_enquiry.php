@@ -1,5 +1,10 @@
 <?php
 if(isset($_POST["submit"])){
+echo '<script type="text/javascript">
+             alert("'.$email.'");
+             window.location.href = "'.$goto_after_mail.'";
+          </script>';
+
 // Checking For Blank Fields..
 if($_POST["name"]==""||$_POST["email"]==""||$_POST["message"]==""){
 echo "Fill All Fields..";
