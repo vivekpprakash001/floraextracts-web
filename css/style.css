@@ -523,9 +523,14 @@
 /* Map End */
 
 /* Team Modal */
-@media (max-width: 576px) { /* Bootstrap's breakpoint for small devices */
+@media (max-width: 1000px) { /* Bootstrap's breakpoint for small devices */
     .h-100-mobile {
         height: 100%;
+    }
+}
+@media (max-height: 1000px) {
+    .mt-mobile {
+        margin-top: auto;
     }
 }
 /* Team Modal End */
