@@ -149,3 +149,14 @@
 
 })(jQuery);
 
+// JavaScript to split the name into two lines
+document.querySelectorAll('.extract-name').forEach(function(element) {
+    const text = element.textContent.trim();
+    const words = text.split(' ');
+    if (words.length > 1) {
+        const firstLine = words.slice(0, Math.floor(words.length / 2)).join(' ');
+        const secondLine = words.slice(Math.floor(words.length / 2)).join(' ');
+        element.innerHTML = `${firstLine}<br>${secondLine}`;
+    }
+});
+
