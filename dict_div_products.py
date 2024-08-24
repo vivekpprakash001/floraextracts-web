@@ -341,10 +341,24 @@ for i in extract_dict:
     fopen.writelines(new_div_string)
     fopen.writelines('\n')
 
+fopen = open('options_extact.txt', 'w')
+for i in extract_dict:
+    string_convert = '<option value="{}">{}</option>'
+    new_string = string_convert.format(i['name'], i['name'])
+    fopen.writelines(new_string)
+    fopen.writelines('\n')
+
 fopen = open('finshed_covert.txt', 'w')
 for i in finished_prod:
     body_text = 'Ingredients : ' + i['ingredients'] + ' Benefits : ' + i['benefits']
     pic_name = 'products/Finished_Product/' + i['product_img'] + '.jpg'
     new_div_string = dev_str.format(pic_name, 'Finished Products', i['name'], body_text)
     fopen.writelines(new_div_string)
+    fopen.writelines('\n')
+
+fopen = open('options_finshed.txt', 'w')
+for i in finished_prod:
+    string_convert = '<option value="{}">{}</option>'
+    new_string = string_convert.format(i['name'], i['name'])
+    fopen.writelines(new_string)
     fopen.writelines('\n')
