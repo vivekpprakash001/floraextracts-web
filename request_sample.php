@@ -8,7 +8,7 @@ $email = $_POST['email'];
 $products = $_POST['products'];
 $message = $_POST['message'];
 
-$bodyParagraphs = ["Name: {$name}", "Email: {$email}", "Product: {$products}" "Message:", $message];
+$bodyParagraphs = ["Name: {$name}", "Email: {$email}", "Product: {$products}", "Message:", $message];
 $body = join(PHP_EOL, $bodyParagraphs);
 
 $headers = "From: $email";
