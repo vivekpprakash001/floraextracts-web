@@ -553,3 +553,11 @@
     height:150px;
     object-fit: cover;
 }
+
+.custom-size {
+    align-items: center;
+    min-width: 500px;
+    max-height: 341px;
+    object-fit: cover;
+    overflow: hidden;
+}  
