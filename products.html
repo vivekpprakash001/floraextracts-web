@@ -153,9 +153,10 @@
                                         <span class="text-dark" style="width: 180px;">Natural Preservatives</span>
                                     </a>
                                 </li>
-                                <li class="nav-item">
-                                    <a class="d-flex m-2 py-2 bg-light rounded-pill" data-bs-toggle="pill" href="#tab-6">
-                                        <span class="text-dark" style="width: 180px;">Natural Spices Drops</span>
+                                <li class="nav-item position-relative">
+                                    <a class="d-flex align-items-center gap-2 m-2 py-2 px-3 bg-light rounded-pill shadow-sm text-decoration-none position-relative" data-bs-toggle="pill" href="#tab-6">
+                                        <span class="badge bg-danger slanted-badge position-absolute translate-middle">New</span>
+                                        <span class="text-dark fw-semibold flex-grow-1">Natural Spices Drops</span>
                                     </a>
                                 </li>
                                 <li class="nav-item">
@@ -166,6 +167,15 @@
                             </ul>
                         </div>
                     </div>
+
+                    <style>
+                        .slanted-badge {
+                            transform: rotate(-30deg);
+                            font-style: italic;
+                            padding: 0.3em 0.6em;
+                            font-size: 0.75rem;
+                        }
+                    </style>
 
                     <div class="tab-content">
                         <!-- Extracts -->
